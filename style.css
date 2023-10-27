@@ -15,21 +15,27 @@ h2 {
   width: 500px;
   padding: 20px;
   margin-left: 300px;
+   color: white;
 }
 .established {
   text-align: center;
+   color: white;
 }
 .flavour {
   text-align: left;
   width: 90%;
   font: 16px;
+  color: white;
 }
 .price {
   text-align: right;
   font: 16px;
+   color: white;
+  
 }
 .item p {
   display: inline-block;
+   color: white;
 }
 .coffee-cup {
   align-items: center;
